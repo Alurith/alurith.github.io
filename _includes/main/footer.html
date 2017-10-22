@@ -1,4 +1,9 @@
 <footer>
-    <span>{{ site.blog.description }}</span>
-    <span>written by {{ site.author.fullname }}</span>
+    <div class="menu">
+        <ul>
+            <li><a href="{{ '/cookie-policy' | prepend: site.baseurl }}">Cookie Policy</a></li>
+            <li><a href="{{ '/archive' | prepend: site.baseurl }}">Archivio</a></li>
+            <li><a href="{{ '/About' | prepend: site.baseurl }}">Chi sono</a></li>
+        </ul>
+    </div>
 </footer>

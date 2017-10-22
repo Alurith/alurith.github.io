@@ -7,7 +7,7 @@ tags:
   - patch-notes
 description: >
   PTR PATCH 2.6.1 - v2.6.1.47710
-hero: http://www.alurith.it/uploads/d3update.jpg
+hero: http://www.alurith.it/uploads/rsz_d3update.jpg
 overlay: blue
 published: true
 ---
@@ -26,7 +26,6 @@ Link al post originale (<a href="https://eu.battle.net/d3/it/blog/20976068/note-
 <li><a href="#adventuremode">Modalità Avventura</a></li>
 </ul>
 <p></p>
-<p style="text-align: center;"><img alt="" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/AV3NTVT5HQM51393299201253.png" style="text-align: center; width: 600px; height: 31px;" /></p>
 <h3><strong><a name="classes">CLASSI</a></strong></h3>
 <ul>
 <li><strong>Abilità del barbaro</strong>

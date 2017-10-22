@@ -26,15 +26,15 @@ blog:
 
 # Author info
 author:
-  fullname                  : Alessandro
+  fullname                  : "Alessandro"
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
+  mail                      : #your@email.com # change to your e-mail address
+  twitter                   : #twitter-user-name
+  github                    : #github-user-name
+  youtube                   : #youtube-user-name
+  stackoverflow             : #stackoverflow-user-name
   disqus                    : # your_disqus_forum_shortname
-  google_analytics          : # 'UA-XXXXXXXX-X'
+  google_analytics          : 'UA-64172251-8'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
 

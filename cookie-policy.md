@@ -6,7 +6,7 @@ permalink: /cookie-policy/
 ---
 
 
-<div class="page">
+<div class="page" markdown="1">
 
 {% include page/title.html title=page.title subtitle=page_subtitle %}
 

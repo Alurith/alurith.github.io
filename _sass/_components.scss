@@ -148,17 +148,4 @@
     color: var(--link-color);
     @include border-slide(left);
   }
-
-  &::before {
-    position: absolute;
-    top: -125px;
-    width: 100%;
-    height: 125px;
-    content: '';
-    display: block;
-    background: -moz-linear-gradient(bottom, var(--bg-color) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
-    background: -webkit-linear-gradient(bottom, var(--bg-color) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
-    background: linear-gradient(to top, var(--bg-color) 0%,rgba(255,255,255,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    z-index: 10 // it needs to cover everything, footnote buttons included
-    }
 }

@@ -8,7 +8,7 @@ permalink: /cookie-policy/
 
 <div class="page" markdown="1">
 
-{% include page/title.html title=page.title subtitle=page_subtitle %}
+{% include page/title.html title=page.title subtitle=page.subtitle %}
 
 ## Cosa sono i cookies
 

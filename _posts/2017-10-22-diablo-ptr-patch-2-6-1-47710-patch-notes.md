@@ -7,7 +7,7 @@ tags:
   - patch-notes
 description: >
   PTR PATCH 2.6.1 - v2.6.1.47710
-hero: http://www.alurith.it/upload/d3update.jpg
+hero: http://www.alurith.it/uploads/d3update.jpg
 overlay: blue
 published: true
 ---

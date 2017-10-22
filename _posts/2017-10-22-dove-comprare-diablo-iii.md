@@ -8,7 +8,7 @@ description: >
   Nuovo di Diablo 3?! Lo sai che puoi provarlo gratis? 
 hero: https://source.unsplash.com/collection/145103/
 overlay: red
-published: false
+published: true
 ---
 ## Diablo 3
 Diablo 3 è un viedeogioco action-RPG sviluppato da Blizzard Entertainment uscito il 15 maggio del 2012. Ancora oggi raduna molti giocatori che sfidano orde di demoni per ottenere esperienza ed equipaggiamenti sempre più potenti. Diablo 3 può essere giocato su pc Windows e su Mac OS, inoltre sono disponibili delle versioni anche per le console, PS3 e Xbox 360 (pubblicate il 3 Settembre 2013) e per PS4 e Xbox One (pubblicate il 19 Agosto 2014), dal 25 Marzo 2014 è disponibile un'espansione Diablo III Reaper of Souls, che aggiunge al gioco base l'Atto V, il Crociato, la modalità avventura, nuvoe abilità, e nuove missioni aggiuntive.

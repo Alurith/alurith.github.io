@@ -11,7 +11,9 @@ hero: http://www.alurith.it/uploads/d3update.jpg
 overlay: blue
 published: true
 ---
-Scopri gli ultimi aggiornamenti presenti sul PTR della patch 2.6.1
+Scopri gli ultimi aggiornamenti presenti sul PTR della patch 2.6.1 in arrivo prossimamente anche su i server Live.
+
+
 
 <!–-break-–>
 

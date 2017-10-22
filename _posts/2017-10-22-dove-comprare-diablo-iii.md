@@ -6,7 +6,7 @@ tags:
   - guide
 description: >
   Nuovo di Diablo 3?! Lo sai che puoi provarlo gratis? 
-hero: https://source.unsplash.com/collection/145103/
+hero: http://www.alurith.it/uploads/d3update.jpg
 overlay: red
 published: true
 ---

@@ -17,900 +17,629 @@ Scopri gli ultimi aggiornamenti presenti sul PTR della patch 2.6.1 in arrivo pro
 
 <!–-break-–>
 
-Link al post originale (<a href="https://us.battle.net/d3/en/blog/20976068/patch-261-ptr-patch-notes-9-28-2017">Blog Ufficiale</a>)
+Link al post originale (<a href="https://eu.battle.net/d3/it/blog/20976068/note-della-patch-261-ptr-13-10-2017">Blog Ufficiale</a>)
 
-
-<h2>Table of Contents:</h2>
+<h1>Indice:</h1>
 <ul>
-<li><a href="#classes">Classes</a></li>
-<li><a href="#items">Items</a></li>
-<li><a href="#adventuremode">Adventure Mode</a></li>
-<li><font color="red"><a href="#challengerifts">Challenge Rifts</a></font></li>
-<li><font color="red"><a href="#monsters">Monsters</a></font></li>
+<li><a href="#classes">Classi</a></li>
+<li><a href="#items">Oggetti</a></li>
+<li><a href="#adventuremode">Modalità Avventura</a></li>
 </ul>
 <p></p>
-<h3><strong><a name="classes">CLASSES</a></strong></h3>
+<p style="text-align: center;"><img alt="" src="https://bnetcmsus-a.akamaihd.net/cms/content_folder_media/AV3NTVT5HQM51393299201253.png" style="text-align: center; width: 600px; height: 31px;" /></p>
+<h3><strong><a name="classes">CLASSI</a></strong></h3>
 <ul>
-<li><strong>Barbarian Skills</strong>
+<li><strong>Abilità del barbaro</strong>
 <ul>
-<li>Battle Rage
+<li>Ira Bellicosa
 <ul>
-<li>Bloodshed
+<li>Eccidio
 <ul>
-<li>Has been redesigned:</li>
-<li>Deal damage equal to 20% of your recent Critical Hits to enemies within 20 yards every 1 second.</li>
-<li>Note: Bloodshed caused performance issues when encountering high enemy density, particularly when combined with Whirlwind, Pain Enhancer, and Gem of Efficacious Toxin.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Ground Stomp
-<ul>
-<li>Jarring Slam
-<ul>
-<li>Added a maximum threshold on the number of health globes that can spawn in a given time.</li>
+<li>Riprogettata:</li>
+<li>Infligge danni pari al 20% dei colpi critici recenti ai nemici entro 20 metri ogni secondo.</li>
+<li>Nota: potevano verificarsi dei problemi con Eccidio in casi di elevato numero di nemici, specialmente se combinato a Turbine, Intensificatore di Dolore e Gemma della Tossina Efficace.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li><strong>Crusader Skills</strong>
+<li><strong>Abilità del crociato</strong>
 <ul>
-<li>Blessed Hammer
+<li>Martello Benedetto
 <ul>
-<li>Limitless
+<li>Infinità
 <ul>
-<li>Has been redesigned:</li>
-<li>Increase the damage of Blessed Hammer to 640% weapon damage as Holy and increase its area of effect by 20 yards.</li>
-<li>Note: The extra projectiles created by this rune were causing performance issues in cases with high enemy density.</li>
+<li>Riprogettata:</li>
+<li>Aumenta i danni di Martello Benedetto al 640% dei danni dell'arma come danni sacri e ne estende l'area di 20 metri.</li>
+<li>Nota: i proiettili aggiuntivi creati dalla runa provocavano problemi di prestazioni in caso di elevato numero di nemici.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li><strong>Monk Skills</strong>
+<li><strong>Abilità del negromante</strong>
 <ul>
-<li>Tempest Rush
+<li>Dominio degli Scheletri
 <ul>
-<li>Flurry
+<li>Impartire ordini ai guerrieri scheletrici interrompe gli effetti di controllo su di essi.</li>
+<li>I guerrieri scheletrici non muoiono dopo aver subito troppi colpi.</li>
+<li>Filosofia di progettazione: durante la creazione di Dominio degli Scheletri, volevamo comunicare la sensazione di essere un comandante con una continua generazione di scheletri attorno al negromante. L'effetto visivo era buono, ma con l'evoluzione della classe con bonus di completo e poteri leggendari, questo effetto frenava la dinamica di gioco di alcune configurazioni. Ora i guerrieri scheletrici hanno le stesse difese delle altre creature evocate nel gioco.</li>
+</ul>
+</li>
+<li>Voracità
 <ul>
-<li>Reduced the maximum number of stacks from 500 to 100</li>
+<li>Famelicità
+<ul>
+<li>La riduzione del costo in risorse fornita da questa runa ora si accumula e non viene più annullata da attivazioni multiple.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Simulacro
+<ul>
+<li>Un effetto luminoso è stato aggiunto all'icona per indicare quando Simulacro è attivo.</li>
+</ul>
+</li>
+<li>Mago Scheletrico
+<ul>
+<li>Ora l'abilità mostra la durata del mago più anziano come beneficio, oltre al numero totale di maghi attivi.</li>
+<li>Filosofia di progettazione: questa modifica è intesa per rendere più chiara ai giocatori la durata dell'armatura dei maghi. Sarà specialmente utile a chi usa le Ossa di Rathma. Il nostro obiettivo è evitare che i giocatori debbano aggiornare il contatore dei maghi scheletrici quando sono già al numero massimo.</li>
+</ul>
+</li>
+<li>Armatura d'Ossa
+<ul>
+<li>Costo in Essenza rimosso.</li>
+<li>Ora può essere lanciata in movimento.</li>
+</ul>
+</li>
+<li>Armata dei Morti
+<ul>
+<li>Armata Gelida
+<ul>
+<li>I danni della runa sono stati suddivisi.</li>
+<li>Filosofia di progettazione: in questo modo ci assicuriamo che i nemici a portata siano colpiti in modo equo e più appropriato all'effetto visivo. Questo equivale a un maggior numero di bersagli colpiti per l'ammontare di danni dell'arma indicato.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li><strong>Necromancer Skills</strong>
+<li><strong>Abilità passive del negromante</strong>
 <ul>
-<li>Command Skeletons
+<li>Alimentazione Mortale
 <ul>
-<li>Commanding your Skeletal Warriors will break crowd control effects on them</li>
-<li>Skeletal Warriors will no longer die after taking too many hits</li>
-<li>Design Philosophy: When we were first designing Command Skeletons, we wanted to capture the feeling of being an undead commander by having skeletons regularly spawn around the Necromancer and charge into battle during combat. It created a cool visual, but as the class evolved through Set bonuses and Legendary powers, it became clear that this visual began to hinder gameplay for some builds. Skeletal Warriors now have the same defenses as all other pets in the game.</li>
-</ul>
-</li>
-<li>Devour
-<ul>
-<li>Voracious
-<ul>
-<li>Resource cost reduction stacks granted from this rune will now stack and are no longer overridden from multiple casts.</li>
+<li>Ora il bonus alla velocità di movimento può superare il limite del 25%.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Simulacrum
+<li><strong>Abilità dello sciamano</strong>
 <ul>
-<li>Added a glow to the skill icon to indicate when Simulacrum is active.</li>
-</ul>
-</li>
-<li>Skeletal Mage
+<li>Messe d'Anime
 <ul>
-<li>This skill will now display the duration of the oldest mage raised as a buff in addition to the total number of mages active</li>
-<li>Design Philosophy: This change is largely to provide transparency to players on the duration of their mage armor. This will be especially useful to players using the Bones of Rathma set. It’s our goal that players will no longer feel compelled to refresh their Skeletal Mage counter when they’re already at max.</li>
-</ul>
-</li>
-<li>Bone Armor
-<ul>
-<li>Essence cost removed</li>
-<li>Can now be cast while moving</li>
-</ul>
-</li>
-<li>Army of the Dead
-<ul>
-<li>Frozen Army
-<ul>
-<li>The pulsing damage from this rune has been spread out</li>
-<li>Design Philosophy: This was done to ensure enemies within range are evenly hit and to better align with the visual. This will result in more targets being hit more consistently for the stated weapon damage amount.</li>
+<li>Aggiungere una carica o aggiornare Messe d'Anime ora aggiorna tutte le cariche di Messe d'Anime.</li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>
-</li>
-<li><strong>Necromancer Passives</strong>
+<li><strong>Correzione dei problemi</strong>
 <ul>
-<li>Fueled By Death
-<ul>
-<li>The movement speed bonus from this passive can now exceed the 25% cap</li>
-</ul>
-</li>
-<li>Life from Death
-<ul>
-<li>Added a maximum threshold on the number of health globes that can spawn in a given time.</li>
+<li>Corretto un problema che impediva ad Armata dei Morti di attivarsi se il giocatore era colpito da un effetto debilitante di un nemico subito dopo l'attivazione.</li>
+<li>Corretto un problema per cui i nemici potevano curarsi colpendo un mostro sotto gli effetti di Messe Vitale.</li>
+<li>Corretto un problema per cui a volte i maghi scheletrici comparivano in aria.</li>
+<li>Corretto un problema per cui il muro di fuoco di Globo Arcano/Scia Fiammeggiante non infliggeva danni.</li>
+<li>Corretto un problema per cui i maghi scheletrici perdevano il bersaglio se Dominio degli Scheletri era usato sullo stesso nemico.</li>
+<li>Corretto un problema che causava problemi di connessione quando i giocatori incanalavano un'abilità mentre tentavano di muoversi.</li>
 </ul>
 </li>
 </ul>
-</li>
-<li><strong>Witch Doctor Skills</strong>
+<p><a href="#top">Torna in cima</a></p>
+<h3><strong><a name="items">OGGETTI</a></strong></h3>
 <ul>
-<li>Soul Harvest
+<li><strong>Generale</strong>
 <ul>
-<li>Adding a stack or refreshing Soul Harvest now refreshes all stacks of Soul Harvest.</li>
+<li>Diversi oggetti leggendari e di completo ora compaiono più frequentemente.</li>
 </ul>
 </li>
+<li><strong>Oggetti leggendari</strong>
+<ul>
+<li>Barbaro
+<ul>
+<li>Bracciali della Distruzione
+<ul>
+<li>Scossa Sismica infligge il <font color="red"><strike>300–400%</strike> 400-500%</font> dei danni in più ai primi 5 nemici colpiti.</li>
 </ul>
 </li>
-<li><strong>Witch Doctor Passives</strong>
+<li>Bracciali dei Primi Uomini
 <ul>
-<li>Creeping Death
-<ul>
-<li>Increased the duration of Haunt, Locust Swarm, and the damage amplification of Piranhas when this passive is active from 3600 to <s>14400</s> <span style="color:#FF0000;"><s>16800</s> 19800</span> seconds</li>
-<li>Note: There is currently a bug preventing this passive from affecting Piranhas; this will be fixed in an upcoming PTR patch</li>
+<li>Gli attacchi di Maglio degli Antichi sono più rapidi del 50% e infliggono il <font color="red"><strike>150–200%</strike> 300-400%</font> di danni aggiuntivi.</li>
 </ul>
 </li>
+<li>Furia del Picco Svanito
+<ul>
+<li>Non presenta più bonus leggendari ai danni di Scossa Sismica come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Riduce il costo in Furia di Scossa Sismica del <font color="red"><strike>40-</strike></font>50% <font color="red"> e ne aumenta i danni del 400-500%</font>.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li><strong>Wizard Skills</strong>
+<li>Martello del Giudizio
 <ul>
-<li>Arcane Orb
-<ul>
-<li>Frozen Orb
-<ul>
-<li>Create an orb of frozen death that shreds an area with ice bolts, dealing <strike>393%</strike> 950% weapon damage as Cold</li>
-<li>Increased projectile travel distance from 30 to <s>45</s> 40</li>
+<li>Non presenta più bonus leggendari ai danni di Maglio degli Antichi come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li><font color="red"><strike>Maglio degli Antichi ripristina 20–25 Furia se colpisce 3 nemici o meno.</strike> I danni di Maglio degli Antichi sono aumentati del 400-500%, e rimborsa 25 Furia se colpisce 3 nemici o meno.</font></li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
+<li>Cintura dei Giganti
+<ul>
+<li>Scossa Sismica aumenta del <font color="red"><strike>80–100%</strike> 200-250%</font> i danni di Terremoto per 3 secondi</li>
 </ul>
 </li>
+<li>Stretta Scheletrica
+<ul>
+<li>Aumenta i danni di Turbine del <font color="red"><strike>250–300%</strike> 400-500%</font>.</li>
 </ul>
 </li>
-<li><strong>Bug Fixes</strong>
+<li>Stallo
 <ul>
-<li>Fixed an issue which prevented Army of the Dead from sometimes triggering when the player is immediately afflicted by a monster’s crowd control after casting it</li>
-<li>Fixed an issue where enemy monsters could heal themselves when striking another monster afflicted by Leech</li>
-<li>Fixed a bug which caused Skeletal Mages to sometimes spawn up in the air</li>
-<li>Fixed an issue where the firewall left behind by Arcane Orb – Scorch was not dealing damage</li>
-<li>Fixed an issue which caused Skeletal Mages to lose their target when players used Command Skeletons to attack the same target</li>
-<li>Fixed an issue which caused connection issues when players used a channeling skill while attempting to force move at the same time</li>
-<li>Fixed an issue where your pets would double dip from the damage bonus granted by Wolf Companion</li>
-<li>(PTR Only) Fixed an issue with Battle Rage - Bloodshed where the damage from critical hits was not being scaled by the proc coefficient of the power doing damage</li>
-<li>Fixed an issue where the advanced tooltip for Bone Armor - Dislocation did not correctly state the rune did Poison damage</li>
-<li>Fixed an issue where Furious Charge would inherit the elemental damage type on your weapon when Vile Ward was equipped, as opposed to the damage type of the rune you chose</li>
-<li>Fixed an issue where Bone Armor: Dislocation did not apply the movement and attack speed reduction provided by Rigor Mortis</li>
-<li>Fixed an issue where Monk players could reset the Blood is Power cooldown for Necromancers allowing them to gain more cool down reduction than intended</li>
-<li>Fixed an issue where Creeping Death was not correctly affecting the duration of the Piranha’s damage debuff</li>
-<li><span style="color:#FF0000;">Fixed an issue where the tooltip for Spike Trap - Impaling Spines did not display its correct damage type</span></li>
-<li><span style="color:#FF0000;">Fixed an issue where the tooltip for Bone Armor - Harvest of Anguish did not display its correct damage type</span></li>
-</ul>
-</li>
-</ul>
-<p><a href="#top">Return to Top</a></p>
-<h3><strong><a name="items">ITEMS</a></strong></h3>
-<ul>
-<li><strong>General</strong>
-<ul>
-<li>Many Legendary and Set items have had their drop chance increased</li>
-</ul>
-</li>
-<li><strong>Legendary Items</strong>
-<ul>
-<li>Barbarian
-<ul>
-<li>Band of Might
-<ul>
-<li>After casting Furious Charge, Ground Stomp, or Leap, take <s>50–60%</s> 60-80% reduced damage for 8 seconds</li>
-</ul>
-</li>
-<li>Bracers of Destruction
-<ul>
-<li>Seismic Slam deals <strike>300–400%</strike> 400-500% increased damage to the first 5 enemies it hits.</li>
-</ul>
-</li>
-<li>Bracers of the First Men
-<ul>
-<li>Hammer of the Ancients attacks 50% faster and deals <strike>150–200%</strike> <s>300-400%</s> 400-500% increased damage</li>
-</ul>
-</li>
-<li>Fury of the Vanished Peak
-<ul>
-<li>No longer rolls Legendary-strength bonus to Seismic Slam damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Reduces the Fury cost of Seismic Slam by <strike>40-</strike>50% and increases its damage by 400-500%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
-</ul>
-</li>
-<li>Gavel of Judgement
-<ul>
-<li>No longer rolls Legendary-strength bonus to Hammer of the Ancients damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li><strike>Hammer of the Ancients returns 20–25 Fury if it hits 3 or fewer enemies.</strike> The damage of Hammer of the Ancients is increased by <s>400-500%</s> 600-800% and it returns 25 Fury if it hits 3 or fewer enemies</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.
-<ul>
-<li><s>Note: The Legendary power on this item is currently not functioning; this will be fixed in an upcoming patch</s></li>
+<li>Carica Furiosa infligge danni aggiuntivi pari al <font color="red"><strike>200–250%</strike> 400-500%</font> del bonus alla velocità di movimento.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Girdle of Giants
+<li>Crociato
 <ul>
-<li>Seismic Slam increases Earthquake damage by <strike>80–100%</strike> 200-250% for 3 seconds.</li>
+<li>Spada della Profezia
+<ul>
+<li>Non presenta più bonus ai danni di Condanna come affisso predefinito.</li>
+<li>Due nemici condannati attivano l'esplosione di Condanna <font color="red">e i danni di Condanna aumentano del 350-450%.</font></li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Skull Grasp
+<li>Bracciale della Furia
 <ul>
-<li>Increase the damage of Whirlwind by <strike>250–300%</strike> <s>400-500%</s> 300-400%</li>
+<li>Furia Celeste infligge il <font color="red"><strike>150–200%</strike> 300-400%</font> di danni aggiuntivi ai nemici accecati, immobilizzati o storditi.</li>
 </ul>
 </li>
-<li>Standoff
+<li>Abnegazione
 <ul>
-<li>Furious Charge deals increased damage equal to <strike>200–250%</strike> 400-500% of your bonus movement speed.</li>
+<li>Ogni nemico colpito da Attacco a Spazzata aumenta i danni del successivo utilizzo dell'abilità del <font color="red"><strike>30–40%</strike> 100-125%</font>; si accumula fino a 5 volte.</li>
 </ul>
 </li>
+<li>Memoria Fedele
+<ul>
+<li>Ogni nemico colpito da Spada Celeste aumenta i danni di Martello Benedetto del <font color="red"><strike>50-60%</strike> 60-80%</font> per 10 secondi. Accumuli massimi: 10.</li>
 </ul>
 </li>
-<li>Crusader
+<li>Sorte degli Empi
 <ul>
-<li>Blade of Prophecy
-<ul>
-<li>No longer rolls a bonus to Condemn damage as an inherent affix.</li>
-<li>Two Condemned enemies also trigger Condemn's explosion and the damage of Condemn is increased by <s>350-450%</s> 600-800%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li><font color="red"><strike>Furia Celeste ottiene due raggi aggiuntivi.</strike></font></li>
+<li><font color="red">Furia Celeste ottiene due raggi aggiuntivi e i suoi danni aumentano del 150-200%.</font></li>
 </ul>
 </li>
-<li>Bracer of Fury
+<li>Collera di Frydehr
 <ul>
-<li>Heaven's Fury deals <strike>150–200%</strike> 300-400% increased damage to enemies that are Blinded, Immobilized, or Stunned.</li>
+<li>Non presenta più bonus leggendari ai danni di Condanna come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Rimuove il tempo di recupero di Condanna e <font color="red">ne aumenta i danni del 450-600%</font>, ma aggiunge un costo pari a 40 Collera.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Denial
+<li>Artiglio del Girfalco
 <ul>
-<li>Each enemy hit by your Sweep Attack increases the damage of your next Sweep Attack by <strike>30–40%</strike> 100-125%, stacking up to 5 times.</li>
-</ul>
-</li>
-<li>Faithful Memory
-<ul>
-<li>Each enemy hit by Falling Sword increases the damage of Blessed Hammer by <strike>50-60%</strike> 60-80% for 10 seconds. Max 10 stacks.</li>
-</ul>
-</li>
-<li>Fate of the Fell
-<ul>
-<li><strike>Gain two additional rays of Heaven’s Fury.</strike></li>
-<li>Heaven's Fury gains two additional rays and has its damage increased by <s>150-200%</s> 375-500%</li>
-</ul>
-</li>
-<li>Frostburn
-<ul>
-<li>No longer smart drops for Crusader.</li>
-</ul>
-</li>
-<li>Frydehr’s Wrath
-<ul>
-<li>No longer rolls Legendary-strength bonus to Condemn damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Condemn has no cooldown and has its damage increased by <s>450-600%</s> 600-800%, but instead costs 40 Wrath.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
-</ul>
-</li>
-<li>Golden Flense
-<ul>
-<li>No longer rolls Legendary-strength bonus to Sweep Attack damage as an inherent affix.</li>
-<li>Sweep Attack restores 6 Wrath for each enemy hit and has its damage increased by 225-300%</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
-</ul>
-</li>
-<li>Gyrfalcon’s Foote
-<ul>
-<li>Removes the resource cost of Blessed Shield and increases Blessed Shield damage by <s>400-500%</s> 275-350%.</li>
+<li>Rimuove il costo in risorse di Scudo Benedetto <font color="red">e ne aumenta i danni del 400-500%.</font></li>
 </ul>
 </li>
 <li>Jekangbord
 <ul>
-<li>No longer rolls Legendary-strength bonus to Blessed Shield damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Blessed Shield ricochets to 6 additional enemies and has its damage increased by <s>300-400%</s> 225-300%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Non presenta più bonus leggendari ai danni di Scudo Benedetto come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Scudo Benedetto rimbalza verso 6 nemici aggiuntivi <font color="red">e infligge il 300-400% di danni aggiuntivi</font>.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Demon Hunter
+<li>Cacciatore di demoni
 <ul>
-<li>Dead Man’s Legacy
+<li>Eredità del Morto
 <ul>
-<li>No longer rolls Legendary-strength bonus to Multishot damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Legendary power now also increases Multishot damage, now reads Multishot hits enemies below <strike>50-</strike>60% health twice and its damage is increased by <s>125-150%</s> 150-200%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Non presenta più bonus leggendari ai danni di Tiro Multiplo come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Il potere leggendario aumenta i danni di Tiro Multiplo, che colpisce i nemici con meno del <font color="red"><strike>50-</strike></font>60% di Vita due volte, e <font color="red">infligge il 125-150% di danni aggiuntivi.</font></li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Karlei’s Point
+<li>Punta di Karlei
 <ul>
-<li>The damage of Impale is increased by <s>60-80%</s> <span style="color:#FF0000;"><s>225-300%</s> 300-375%</span> and <strike>Impale</strike> it returns <strike>10–</strike>15 Hatred if it hits an enemy already Impaled.</li>
+<li><font color="red">Impalamento infligge il 60-80% di danni aggiuntivi <strike>e</strike> </font> restituisce <font color="red"><strike>10–</strike></font>15 Odio se colpisce un nemico già soggetto ai suoi effetti.</li>
 </ul>
 </li>
-<li>Lord Greenstone’s Fan
+<li>Coda della Manticora
 <ul>
-<li>Every second, gain <strike>160–200%</strike> 300-400% increased damage for your next Fan of Knives. Stacks up to 30 times.</li>
+<li>Non presenta più bonus leggendari ai danni di Tiro Multiplo come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Riduce il costo in Odio di Dardo a Grappolo del <font color="red"><strike>40-</strike></font>50% <font color="red"> e ne aumenta i danni del 250-300%</font>.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Manticore
+<li>Arco di Yang
 <ul>
-<li>No longer rolls Legendary-strength bonus to Multishot damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Reduces the Hatred cost of Cluster Arrow by <strike>40-</strike>50% and increases its damage by 250-300%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Tiro Multiplo attacca del 50% più velocemente <font color="red">e i suoi danni sono aumentati del 125-150%</font>.</li>
 </ul>
 </li>
-<li>Yang’s Recurve
-<ul>
-<li>Multishot attacks 50% faster and its damage is increased by <s>125-150%</s> 150-200%.</li>
-</ul>
-</li>
-<li>Wraps of Clarity
-<ul>
-<li>Your Hatred Generators reduce your damage taken by <s>30–35%</s> 40-50% for 5 seconds.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Monk
-<ul>
-<li>Binding of the Lost
-<ul>
-<li>Each hit with Seven-Sided Strike grants <strike>3.0–3.5%</strike> 4-5% damage reduction for 7 seconds.</li>
 </ul>
 </li>
-<li>Balance
+<li>Monaco
 <ul>
-<li>No longer rolls Legendary-strength bonus to Tempest Rush damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>The damage of Tempest Rush is increased by 450-600% and when your Tempest Rush hits 3 or fewer enemies, it gains 100% Critical Hit Chance..</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
-</ul>
-</li>
-<li>Cesar's Memento
+<li>Vincolo dei Perduti
 <ul>
-<li>Enemies take <strike>300–400%</strike> 600-800% increased damage from your Tempest Rush for 5 seconds after you hit them with a Blind, Freeze, or Stun</li>
+<li>Ogni colpo di Colpo delle Sette Direzioni fornisce il <font color="red"><strike>3–3,5%</strike> 4-5%</font> di riduzione dei danni per 7 secondi.</li>
 </ul>
 </li>
-<li>The Fist of Az’Turrasq
+<li>Equilibrio
 <ul>
-<li>Exploding Palm's on-death explosion damage is increased by <strike>250–300%</strike> 400-500%. </li>
+<li>Non presenta più bonus leggendari ai danni di Carica Tempestosa come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li><font color="red">I danni di Carica Tempestosa aumentano del 450-600%, e</font> se Carica Tempestosa colpisce 3 nemici o meno, ottiene il 100% di probabilità di colpo critico.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Incense Torch of the Grand Temple
+<li>Il Pugno di Az'Turrasq
 <ul>
-<li>No longer rolls Legendary-strength bonus to Wave of Light damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Reduces the Spirit cost of Wave of Light by <strike>40–</strike>50% and increases its damage by 450-500%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Aumenta del <font color="red"><strike>250–300%</strike> 400-500%.</font> i danni dell'esplosione di Palmo Esplosivo.</li>
 </ul>
 </li>
-<li>Scarbringer
+<li>Torcia Incensiera del Grande Tempio
 <ul>
-<li>The damage of Lashing Tail Kick is increased by <strike>300%</strike> 450-600% to the first 7 enemies hit</li>
+<li>Non presenta più bonus leggendari ai danni di Ondata di Luce come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Riduce il Costo in spirito di Ondata di Luce del <font color="red"><strike>40–</strike></font>50% <font color="red">e ne aumenta i danni del 450-500%</font>.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Spirit Guards
+<li>Sfregiatore
 <ul>
-<li>Your Spirit Generators reduce your damage taken by <s>30–40%</s> 45-60% for 3 seconds.</li>
-</ul>
-</li>
+<li>Calcio Rotante infligge il <font color="red"><strike>300%</strike> 450-600%</font> di danni aggiuntivi ai primi 7 nemici colpiti.</li>
 </ul>
 </li>
-<li>Necromancer
-<ul>
-<li>Bloodsong Mail
-<ul>
-<li>While in the Land of the Dead, Command Skeletons <strike>gains the effect of all runes and</strike> deals 100–125% additional damage and gains the effect of the Enforcer, Frenzy, Dark Mending and Freezing Grasp runes.</li>
 </ul>
 </li>
-<li>Bloodtide Blade
+<li>Negromante
 <ul>
-<li>Death Nova deals <strike>20–30%</strike> 80-100% increased damage for every enemy within <strike>15</strike> 25 yards..</li>
-</ul>
-</li>
-<li>Dayntee’s Binding
+<li>Maglia dei Cantasangue
 <ul>
-<li>You gain an additional 40–50% damage reduction when there is an enemy afflicted by <strike>your Decrepify</strike> any of your curses.</li>
+<li>Finché Terra dei Morti è attiva, Dominio degli Scheletri<font color="red"><strike> ottiene gli effetti di tutte le rune e</strike></font> infligge il 100–125% di danni aggiuntivi <font color="red">e ottiene gli effetti di Tutore, Frenesia, Risanamento Oscuro e Stretta Raggelante</font>.</li>
 </ul>
 </li>
-<li>Defiler Cuisses
+<li>Lama della Marea di Sangue
 <ul>
-<li>Your Bone Spirit's damage is increased by <strike>75–100%</strike> 400-500% for every second it is active.</li>
+<li>Aumenta del <font color="red"><strike>20–30%</strike> 80-100%</font> i danni di Nova Mortale per ogni nemico entro <font color="red"><strike>15</strike> 25</font> metri.</li>
 </ul>
 </li>
-<li>Fate’s Vow
+<li>Vincolo di Dayntee
 <ul>
-<li>Army of the Dead now deals an additional 200-250% damage and gains the effect of the Unconventional Warfare rune.</li>
+<li>Aumenta del 40-50% la riduzione dei danni quando un nemico è colpito da <font color="red"><strike>Decadimento</strike> una maledizione</font>.</li>
 </ul>
 </li>
-<li>Golemskin Breeches
+<li>Fiancali del Profanatore
 <ul>
-<li><strike>Your Golem's damage is increased by 100–125% and</strike> You take 30% less damage while <strike>it</strike> your Golem is alive and the cooldown on Command Golem is reduced by 20-25 seconds.</li>
+<li>Aumenta del <font color="red"><strike>75–100%</strike> 400-500%</font> i danni di Spirito d'Ossa per ogni secondo in cui rimane attivo.</li>
 </ul>
 </li>
-<li>Leger’s Disdain
+<li>Voto del Destino
 <ul>
-<li>Grim Scythe deals an additional <strike>7–10%</strike> 65-80% damage for each point of essence it restores.</li>
+<li>Armata dei Morti <font color="red">ora infligge il 200-250% di danni aggiuntivi e </font>ottiene gli effetti di Guerra Non Convenzionale.</li>
 </ul>
 </li>
-<li>Lost Time
+<li>Brache di Pelle di Golem
 <ul>
-<li>Your cold skills reduce the movement speed of enemies by 30%. In addition, your movement speed is increased by <strike>4–5%</strike> 8-10% for 5 seconds. Maximum 5 stacks.</li>
+<li><font color="red"><strike>Aumenta del 100-125% i danni del Golem e</strike></font> Riduce del 30% i danni subiti dal negromante finché il Golem è attivo <font color="red">e riduce di 20-25 secondi il tempo di recupero</font>.</li>
 </ul>
 </li>
-<li>Maltorius’ Petrified Spike
+<li>Disprezzo di Leger
 <ul>
-<li>Bone Spear now costs 40 Essence and deals <strike>375–450%</strike> 550-700% increased damage.</li>
+<li>Tetra Falce infligge il <font color="red"><strike>7–10%</strike> 65-80%</font> di danni aggiuntivi per ogni punto di Essenza rigenerato.</li>
 </ul>
 </li>
-<li>Mask of Scarlet Death
+<li>Tempo Perduto
 <ul>
-<li>When paired with the Revive: Purgatory rune, the mega-revived monster will drop the same number of corpses were used to create it on death.</li>
-<li>This item will now attempt to give preference to the strongest monster to become the mega-revive when selecting a group of corpses.</li>
+<li>Le abilità da freddo riducono del 30% la velocità di movimento dei nemici. Inoltre, aumentano la velocità di movimento del <font color="red"><strike>4–5%</strike> 8-10%</font> per 5 secondi. Massimo 5 accumuli.</li>
 </ul>
 </li>
-<li>Nayr’s Black Death
+<li>Aculeo Pietrificato di Maltorius
 <ul>
-<li>Each different poison skill you use increases the damage of your poison skills by <strike>50–65%</strike> 75-100% for 15 seconds.</li>
+<li>Lancia d'Ossa costa 40 Essenza e infligge il <font color="red"><strike>375–450%</strike> 550-700%</font> di danni aggiuntivi.</li>
 </ul>
 </li>
-<li>Scythe of the Cycle
+<li>Maschera della Morte Scarlatta
 <ul>
-<li>Your Secondary skills deal <strike>250–300%</strike> 350-400% additional damage while Bone Armor is active but reduce the remaining duration of Bone Armor by 4 seconds.</li>
+<li>Quando abbinata alla runa Rianimazione: Purgatorio, il mostro rianimato rilascia alla morte lo stesso numero di cadaveri usati per la sua creazione.</li>
+<li>Ora i mostri più potenti hanno la precedenza per essere rianimati quando si seleziona un gruppo di cadaveri.</li>
 </ul>
 </li>
-<li>Steuart’s Greaves
+<li>Morte Nera di Nayr
 <ul>
-<li>You gain <strike>40–50%</strike> 75-100% increased movement speed for <strike>2</strike> 10 seconds after using Blood Rush.</li>
+<li>Ogni diversa abilità da veleno utilizzata aumenta i danni delle abilità da veleno del <font color="red"><strike>50–65%</strike> 75-100%</font> per 15 secondi.</li>
 </ul>
 </li>
-<li>The Johnstone
+<li>Falce del Ciclo
 <ul>
-<li><strike>Each corpse consumed in the Land of the Dead g</strike>Grants a 50 stacks of Macabre Knowledge when Land of the Dead expires. Macabre Knowledge increases the damage of Corpse Lance and Corpse Explosion by 150–200% <strike>while outside Land of the Dead</strike>.</li>
-</ul>
-</li>
+<li>Le abilità secondarie infliggono il <font color="red"><strike>250–300%</strike> 350-400%</font> di danni aggiuntivi finché Armatura d'Ossa è attiva, ma riducono di 4 secondi la durata rimanente di Armatura d'Ossa.</li>
 </ul>
 </li>
-<li>Witch Doctor
-<ul>
-<li>Bakuli Jungle Wraps
+<li>Schinieri di Steuart
 <ul>
-<li>Firebats deals <strike>150–200%</strike> 250-300% increased damage to enemies affected by Locust Swarm or Piranhas.</li>
+<li>Aumenta del <font color="red"><strike>40–50%</strike> 75-100%</font> la velocità di movimento per <font color="red"><strike>2</strike> 10</font> secondi dopo aver usato Flusso di Sangue.</li>
 </ul>
 </li>
-<li>Mask of Jeram
+<li>Pietra di John
 <ul>
-<li>Pets deal <strike>75–100% </strike>150-200% increased damage.</li>
+<li><font color="red"><strike>Ogni cadavere consumato in Terra dei Morti </strike>Fornisce 50 accumuli di</font> Conoscenza Macabra <font color="red">al termine di Terra dei Morti</font>. Conoscenza Macabra aumenta del 150-200% i danni di Lancia Cadaverica ed Esplosione Cadaverica<font color="red"><strike> al di fuori di Terra dei Morti</strike></font>.</li>
 </ul>
 </li>
-<li>Staff of Chiroptera
-<ul>
-<li>No longer rolls Legendary-strength bonus to Firebats damage as an inherent affix. Can still roll 10-15% as a random affix.</li>
-<li>Firebats attacks 100% faster, and costs <strike>70-</strike>75% less Mana, and has its damage increased by <span style="color:#FF0000;"><s>150-200%</s> 125-150%</span>.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
 </ul>
 </li>
-<li>The Short Man’s Finger
+<li>Sciamano
 <ul>
-<li>Gargantuan instead summons three smaller gargantuans <strike>each more powerful than before</strike> that have their damage increased by 500-650%.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.
+<li>Fasce della giungla di Bakuli
 <ul>
-<li><s>Note: There is currently a bug which causes the new and old versions of the ring to not work when both are equipped; this will be fixed in an upcoming PTR patch</s></li>
-</ul>
-</li>
-</ul>
-</li>
+<li>Pipistrelli di Fuoco infligge il <font color="red"><strike>150–200%</strike> 250-300%</font> di danni aggiuntivi ai nemici colpiti da Sciame di Locuste o Piranha.</li>
 </ul>
 </li>
-<li>Wizard
-<ul>
-<li>Deathwish
+<li>Maschera di Jeram
 <ul>
-<li>While channeling Arcane Torrent, Disintegrate, or Ray of Frost, all damage is increased by <s>30–35%</s> 250-325%.</li>
+<li>Aumenta del <font color="red"><strike>75–100% </strike>150-200%</font> i danni inflitti dalle creature evocate</li>
 </ul>
 </li>
-<li>Etched Sigil
+<li>Bastone del Chirottero
 <ul>
-<li><s>Your Arcane Torrent, Disintegrate, and Ray of Frost also cast one of your other damaging Arcane Power Spenders which deal 125-150% increased damage every second.</s></li>
-<li>While channeling Arcane Torrent, Disintegrate, or Ray of Frost, the damage of your Arcane Power Spenders is increased by 125-150% and you also cast one of your other damaging Arcane Power Spenders every second.</li>
+<li>Non presenta più bonus leggendari ai danni di Pipistrelli di Fuoco come affisso predefinito. Può fornire un bonus del 10-15% come affisso casuale.</li>
+<li>Aumenta del 100% la velocità d'attacco di Pipistrelli di Fuoco, ne riduce il costo in Mana del <font color="red"><strike>70-</strike>75%</font><font color="red"> e ne aumenta i danni del 150-200%</font>.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Halo of Karini
+<li>Dito del Nano
 <ul>
-<li>You take <s>45–60%</s> 60-80% less damage for <s>3</s> <s>4</s> 5 seconds after your Storm Armor electrocutes an enemy more than <s>30</s> 15 yards away</li>
+<li>Gargantua evoca tre creature più piccole <font color="red"><strike>ciascuna più forte dell'originale</strike> che infliggono il 500-650% di danni aggiuntivi</font>.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Nilfur's Boast
-<ul>
-<li>Increase the damage of Meteor by <s>200%</s> 600%. When your Meteor hits 3 or fewer enemies, the damage is increased by <s>275–350% </s>675-900%</li>
 </ul>
 </li>
-<li>Orb of Infinite Depth
+<li>Mago
 <ul>
-<li>Each time you hit an enemy with Explosive Blast your damage is increased by <strike>4%</strike> 8-10% and your damage reduction is increased by <strike>15%</strike> 20% for 6 seconds. This effect can stack up to 4 times.</li>
-</ul>
-</li>
-<li>Ranslor’s Folly
+<li>Globo delle Profondità Infinite
 <ul>
-<li>Energy Twister does 225-300% more damage and periodically pulls in lesser enemies within 30 yards.</li>
+<li>Ogni volta che si colpisce un nemico con Scarica Esplosiva i danni aumentano del <font color="red"><strike>4%</strike> 8-10%</font> e la riduzione dei danni aumenta del <font color="red"><strike>15%</strike> 20%</font> per 6 secondi. L'effetto può sommarsi fino a 4 volte.</li>
 </ul>
 </li>
-<li>The Grand Vizier
+<li>Follia di Ranslor
 <ul>
-<li>No longer rolls Legendary-strength bonus to Meteor damage as an inherent affix.</li>
-<li>Reduces the Arcane Power cost of Meteor by 50% and increases its damage by <s>30%</s> <s>375-500%</s> 300-400%</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Tornado d'Energia <font color="red">infligge il 225-300% di danni aggiuntivi e</font> attira periodicamente i nemici minori entro 30 metri.</li>
 </ul>
 </li>
-<li>Triumvirate
+<li>Triumvirato
 <ul>
-<li>Your Signature Spells increase the damage of Arcane Orb by <strike>150–200%</strike> 300-400% for 6 seconds, stacking up to 3 times.</li>
+<li>Gli incantesimi personalizzati aumentano i danni di Globo Arcano del <font color="red"><strike>150–200%</strike> 300-400%</font> per 6 secondi; si accumula fino a 3 volte.</li>
 </ul>
 </li>
-<li>Unstable Scepter
+<li>Scettro Instabile
 <ul>
-<li>No longer rolls Legendary-strength bonus to Arcane Orb damage as an inherent affix.</li>
-<li>The damage of Arcane Orb<strike>’s</strike> is increased by 350-450% and its explosion triggers an additional time..</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Non presenta più bonus leggendari ai danni di Globo Arcano come affisso predefinito.</li>
+<li><font color="red">I danni di</font> Globo Arcano<font color="red"> aumentano del 350-450% e la sua </font>esplosione si attiva una volta in più.</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
-<li>Wand of Woh
+<li>Bacchetta di Woh
 <ul>
-<li>No longer rolls Legendary-strength bonus to Explosive Blast damage as an inherent affix.</li>
-<li>The damage of Explosive Blast is increased by 300-400% and 3 additional blasts are triggered after casting Explosive Blast.</li>
-<li>Note: Existing versions of this item will also be changed to include the damage roll in the orange text, but will always roll a damage roll equal to the previous maximum possible.</li>
+<li>Non presenta più bonus leggendari ai danni di Scarica Esplosiva come affisso predefinito.</li>
+<li><font color="red">Aumenta i danni di Scarica Esplosiva del 300-400% e </font>dopo l'utilizzo di Scarica Esplosiva rilascia 3 scariche aggiuntive</li>
+<li>Nota: versioni esistenti di questo oggetto saranno modificate per includere i danni nel testo arancione, ma presenteranno sempre danni equivalenti al massimo possibile precedente.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li><strong>Set Items</strong>
-<ul>
-<li>Barbarian
+<li><strong>Oggetti dei completi</strong>
 <ul>
-<li>Immortal King’s Call
+<li>Barbaro
 <ul>
-<li>(6) Set
+<li>Appello del Re Immortale
 <ul>
-<li>While both Wrath of the Berserker and Call of the Ancients is active, you deal <strike>400%</strike> <s>750%</s> 1500% increased damage.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Might of the Earth
+<li>(6) Completo
 <ul>
-<li>(6) Set
-<ul>
-<li>Increase the damage of Earthquake, Avalanche, Leap, Ground Stomp, Ancient Spear and Seismic Slam by <strike>1200%</strike> <s>3000%</s> 5600%.</li>
+<li>Quando sia Collera del Berserker sia Richiamo degli Antichi sono attivi, i danni inflitti aumentano del <font color="red"><strike>400%</strike> 750%</font>.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>The Legacy of Raekor
-<ul>
-<li>(4) Set
+<li>Potenza Terrestre
 <ul>
-<li>Furious Charge gains the effect of every rune and deals <strike>300%</strike> <s>500%</s> 1000% increased damage.</li>
-</ul>
-</li>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Every use of Furious Charge increases the damage of your next Fury-spending attack by <strike>750%</strike> <s>1500%</s> 2800%. This effect stacks. Every use of a Fury-spending attack consumes up to 5 stacks.</li>
+<li>Aumenta del <font color="red"><strike>1200%</strike> 3000%</font> i danni di Terremoto, Valanga, Balzo, Passo Tonante, Lancia Ancestrale e Scossa Sismica.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Wrath of the Wastes
+<li>Lascito di Raekor
 <ul>
-<li>(4) Set
+<li>(4) Completo
 <ul>
-<li>During Whirlwind and for 3 seconds after, you gain 50% damage reduction and your applied Rends deal triple damage.</li>
+<li>Carica Furiosa ottiene gli effetti di tutte le rune e infligge il <font color="red"><strike>300%</strike> 500%</font> di danni aggiuntivi.</li>
 </ul>
 </li>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Whirlwind gains the effect of the Dust Devils rune and all Whirlwind damage is increased by <s>800%</s> <s>1700%</s> <s>3400%</s> 3000%.</li>
+<li>Ogni utilizzo di Carica Furiosa aumenta del <font color="red"><strike>750%</strike> 1.500%</font> i danni del successivo attacco che consuma Furia. L'effetto può sommarsi. Ogni attacco che consuma Furia usa fino a 5 cariche.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li><span style="color:#FF0000;">Bul-Kathos' Oath</span>
+<li>Collera delle Distese
 <ul>
-<li><span style="color:#FF0000;">(2) Set</span>
+<li>(6) Completo
 <ul>
-<li><span style="color:#FF0000;">Increases Fury Generation by <s>10</s> 15</span></li>
-<li><span style="color:#FF0000;">During Whirlwind you gain <s>30%</s> 45% increased attack speed and movement speed</span></li>
+<li>Turbine ottiene gli effetti della runa Diavolo di Sabbia e infligge l'<span style="color:#FF0000;"><s>800%</s> 1700%</span> di danni aggiuntivi.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Crusader
-<ul>
-<li>Armor of Akkhan
-<ul>
-<li>(6) Set
-<ul>
-<li>While Akarat's Champion is active, you deal <strike>600%</strike> <s>900%</s> <s>1000%</s> <span style="color:#FF0000;"><s>1300%</s> 1500%</span> increased damage and take <strike>15%</strike> <strike>20%</strike> 50% less damage.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Roland's Legacymonke
-<ul>
-<li>(4) Set
+<li>Crociato
 <ul>
-<li>Increase the damage of Shield Bash and Sweep Attack by <s>2500%</s> 3300%.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Seeker of the Light
+<li>Armatura di Akkhan
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Increase the damage of Blessed Hammer by <s>1250%</s> <span style="color:#FF0000;"><s>1500%</s> 2000%</span> and Falling Sword by <span style="color:#FF0000;"><s>500%</s> 1000%</span>.</li>
+<li>Finché Campione di Akarat è attivo, l'eroe infligge il <font color="red"><strike>600%</strike> 900%</font> di danni aggiuntivi e subisce il <font color="red"><strike>15%</strike> 20%</font> di danni in meno.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Thorns of the Invoker
+<li>Aculei dell'Invocatore
 <ul>
-<li>(2) Set
+<li>(2) Completo
 <ul>
-<li>Your Thorns damage now hits all enemies in a 15 yard radius around you. Each time you hit an enemy with Punish, Slash, or block an attack your Thorns is increased by <strike>35%</strike> <strike>115%</strike> <s>70%</s> 140% for 2 seconds.
-<ul>
-<li><s>Note: There is currently an issue which causes the actual Thorns increase to be 35% instead of 70%; this will be fixed in an upcoming PTR patch</s></li>
-</ul>
-</li>
+<li>I danni di Spine colpiscono tutti i nemici in un raggio di 15 metri. Ogni volta che si colpisce un nemico con Punizione o Squarcio o si para un attacco, il valore di Spine aumenta del <font color="red"><strike>35%</strike> 115%</font> per 2 secondi.</li>
 </ul>
 </li>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>The attack speed of Punish and Slash are increased by 50% and deal <strike>800%</strike> <strike>1600%</strike> <s>2700%</s> 5400% of your Thorns damage to the first enemy hit.</li>
-</ul>
-</li>
+<li>Aumenta del 50% la velocità d'attacco di Punizione e Squarcio e infligge il <font color="red"><strike>800%</strike> 1.600%</font> dei danni di Spine al primo nemico colpito.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Demon Hunter
-<ul>
-<li>Embodiment of the Marauder
-<ul>
-<li>(4) Set
-<ul>
-<li>Sentries deal <s>400%</s> <s>100%</s> 400% increased damage and cast Elemental Arrow, Chakram, Impale, Multishot, and Cluster Arrow when you do</li>
 </ul>
 </li>
-<li>(6) Set
+<li>Cacciatore di demoni
 <ul>
-<li>Your primary skills, Elemental Arrow, Chakram, Impale, Multishot, Cluster Arrow, Companions, and Vengeance deal <strike>1200%</strike> <s>2100%</s> <s>2400%</s> <span style="color:#FF0000;"><s>2500%</s> 3000%</span> increased damage for every active Sentry</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Natalya’s Vengeance
+<li>Incarnazione del Predone
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>After casting Rain of Vengeance, deal <strike>500%</strike> <strike>750%</strike> <span style="color:#FF0000;"><s>2500%</s> 3500%</span> increased damage and take 60% reduced damage for 10 seconds</li>
+<li>Aumenta i danni di abilità primarie, Dardo Elementale, Chakram, Impalamento, Tiro Multiplo, Dardo a Grappolo, Compagno e Giusta Vendetta del <font color="red"><strike>1.200%</strike> 2.100%</font> per ogni Sentinella attiva.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>The Shadow's Mantle
+<li>Vendetta di Natalya
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Impale deals an additional <s>40000%</s> 50000% weapon damage to the first enemy hit.</li>
+<li>Dopo l'utilizzo di Pioggia Vendicativa, infligge il <font color="red"><strike>500%</strike> 750%</font> di danni aggiuntivi e riduce del 60% per 10 secondi i danni subiti.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Unhallowed Essence
+<li>Essenza Sconsacrata
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Your generators, Multishot, and Vengeance deal <strike>40%</strike> <s>70%</s> 100% increased damage for every point of Discipline you have.</li>
+<li>Le abilità che generano risorse, Tiro Multiplo e Giusta Vendetta infliggono il <font color="red"><strike>40%</strike> 70%</font> di danni aggiuntivi per ogni punto di Disciplina in possesso.</li>
 </ul>
 </li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Monk
+<li>Monaco
 <ul>
-<li>Inna’s Mantra
+<li>Indumenti del Re Scimmia
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Gain the five runed Mystic Allies at all times and your damage is increased by <s>125%</s> 150% for each Mystic Ally you have out.</li>
+<li>Riprogettata.</li>
+<li>Calcio Rotante, Carica Tempestosa e Ondata di Luce infliggono il 600% di danni aggiuntivi per ogni carica di Vento Sferzante in possesso.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Monkey King’s Garb
+<li>Stratagemma di Uliana
 <ul>
-<li>(6) Set
+<li>(4) Completo
 <ul>
-<li>Has been redesigned.</li>
-<li>Lashing Tail Kick, Tempest Rush, and Wave of Light have their damage increased by <s>600%</s> 1000% for each stack of Sweeping Wind you have.</li>
+<li>Colpo delle Sette Direzioni infligge il <font color="red"><strike>doppio</strike> 777%</font> dei suoi danni complessivi con ogni colpo.</li>
 </ul>
 </li>
-</ul>
-</li>
-<li>Raiment of a Thousand Storms
-<ul>
-<li>(6) Set
-<ul>
-<li>Your Spirit Generators increase the weapon damage of Dashing Strike to <s>12500%</s> 13000% for 6 seconds and Dashing Strike increases the damage of your Spirit Generators by <s>1250%</s> 1300% for 6 seconds.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Uliana’s Stratagem
-<ul>
-<li>(4) Set
-<ul>
-<li>Your Seven-Sided Strike deals <strike>double</strike> 777% its total damage with each hit.</li>
-</ul>
-</li>
-<li>(6) Set
-<ul>
-<li>Increase the damage of your Exploding Palm by <strike>250%</strike> <s>1800%</s> 2100% and your Seven-Sided Strike detonates your Exploding Palm</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Shenlong's Spirit
-<ul>
-<li>The damage of your Spirit Generators is increased by <s>1.5%</s> 2% for each point of Spirit you have</li>
-<li>When reaching maximum Spirit, all damage is increased by <s>150%</s> 200%, but you no longer passively regenerate Spirit and 65 Spirit is drained every second until you run out of Spirit</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Necromancer
-<ul>
-<li>Bones of Rathma
-<ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Each active Skeletal Mage increases the damage of your minions and Army of the Dead by <s>625%</s> 1000%.</li>
+<li>Aumenta del <font color="red"><strike>250%</strike> 1.800%</font> i danni di Palmo Esplosivo e Colpo delle Sette Direzioni attiva Palmo Esplosivo.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Grace of Inarius
-<ul>
-<li>(6) Set
-<ul>
-<li>Bone Armor also activates a swirling tornado of bone, damaging nearby enemies for <s>750%</s> 1000% weapon damage and increasing the damage they take from the Necromancer by <s>2750%</s> 3750%.</li>
-</ul>
-</li>
 </ul>
 </li>
-<li>Pestilence Master’s Shroud
+<li>Negromante
 <ul>
-<li>(4) Set
+<li>Manto del Maestro della Pestilenza
 <ul>
-<li>Each enemy you hit with Bone Spear, Corpse Lance or Corpse Explosion reduces your damage taken by 2%, up to a maximum of 50%. Lasts 15 seconds.</li>
-</ul>
-</li>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Each corpse you consume grants you an Empowered Bone Spear charge that increases the damage of your next Bone Spear by <s>3000%</s> <span style="color:#FF0000;"><s>4000%</s> 3300%</span>. In addition, Corpse Lance and Corpse Explosion damage is increased by <s>1500%</s> <span style="color:#FF0000;"><s>2000%</s> 1650%</span>.</li>
+<li>Ogni cadavere consumato fornisce una carica di Lancia d'Ossa potenziata che aumenta del 3.000% i danni inflitti dal successivo utilizzo di Lancia d'Ossa. <font color="red">Inoltre, aumenta del 1.500% i danni di Lancia Cadaverica ed Esplosione Cadaverica.</font></li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Trag’Oul’s Avatar
+<li>Avatar di Trag'Oul
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Your Life-spending abilities deal 3300% increased damage <strike>but cost twice as much Life</strike>. Your healing from skills is increased by 100%.</li>
-</ul>
-</li>
+<li>Le abilità che consumano Vita infliggono il 3.300% di danni aggiuntivi<font color="red"><strike>ma consumano il doppio di Vita</strike></font>. L'effetto curativo delle abilità è aumentato del 100%.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Witch Doctor
-<ul>
-<li>Helltooth Harness
-<ul>
-<li>(2) Set
-<ul>
-<li>Enemies hit by your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, or Wall of Death are afflicted by Necrosis, becoming Slowed, taking 1500% weapon damage every second<strike>, and taking 20% increased damage from your attacks for 10 seconds</strike>.</li>
 </ul>
 </li>
-<li>(6) Set
+<li>Sciamano
 <ul>
-<li>After casting Wall of Death, gain <strike>1400%</strike> <s>1700%</s> <s>5100%</s> <span style="color:#FF0000;"><s>3700%</s> 4400%</span> increased damage for 15 seconds to your primary skills, Acid Cloud, Firebats, Zombie Charger, Zombie Dogs, Gargantuan, Grasp of the Dead, Piranhas, and Wall of Death.</li>
-<li><s>Note: This set bonus is being temporarily disabled to fix an issue with the set. It will be re-enabled in a later PTR patch.</s></li>
-</ul>
-</li>
-<li>Note: The damage bonus for you against enemies affected with Necrosis causes performance issues when encountering high density. This change is not intended to be a nerf and, when coupled with the six-piece change, should be a net buff for the complete set. This change should not change the gameplay style of this set.</li>
-</ul>
-</li>
-<li>Raiment of the Jade Harvester
+<li>Egida della Zanna Infernale
 <ul>
-<li>(2) Set
+<li>(2) Completo
 <ul>
-<li>When Haunt lands on an enemy already affected by Haunt, it instantly deals <strike>120</strike> <s>480</s> 560 seconds worth of Haunt damage.</li>
+<li>I nemici colpiti dalle abilità primarie, Nube Acida, Pipistrelli di Fuoco, Assalto Zombi, Cani Zombi, Gargantua, Stretta della Morte, Piranha o Muro di Morte sono affetti da Necrosi, che li rallenta e li costringe a subire il 1.500% dei danni dell'arma al secondo<font color="red"><strike>, più il 20% di danni aggiuntivi dagli attacchi per 10 secondi</strike></font>.</li>
 </ul>
 </li>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Soul Harvest reduces damage taken by 50% for 12 seconds and consumes your damage over time effects on enemies, instantly dealing <strike>300</strike> <s>1200</s> <span style="color:#FF0000;"><s>1400</s> 1650</span> seconds worth of remaining damage.</li>
+<li>Dopo aver lanciato Muro di Morte, aumenta del <font color="red"><strike>1.400%</strike> 1.700%</font> i danni di abilità primarie, Nube Acida, Pipistrelli di Fuoco, Assalto Zombi, Cani Zombi, Gargantua, Stretta della Morte, Piranha e Muro di Morte per 15 secondi.</li>
+<li>Nota: questo bonus di completo è temporaneamente disattivato per risolvere un problema. Sarà riattivato in una delle prossime patch del PTR.</li>
 </ul>
 </li>
+<li>Nota: il bonus ai danni contro i nemici colpiti da Necrosi provoca problemi di prestazioni in caso di nemici numerosi. Questo cambiamento non è inteso come una penalizzazione, e assieme alla modifica per il completo di 6 pezzi, dovrebbe garantire un beneficio. Lo stile di gioco del completo non dovrebbe subire mutazioni.</li>
 </ul>
 </li>
-<li>Spirit of Arachyr
+<li>Panni del Raccoglitore di Giada
 <ul>
-<li>(6) Set
+<li>(2) Completo
 <ul>
-<li>The damage of your creature skills is increased by <s>2400%</s> <s>4500%</s> <font color="red"><s>3900%</s> 4500%</font>. Creature skills are Corpse Spiders, Plague of Toads, Firebats, Locust Swarm, Hex, and Piranhas. </li>
-</ul>
-</li>
+<li>Quando Tormento colpisce un nemico già colpito da Tormento, infligge all'istante danni pari a <font color="red"><strike>120</strike> 480</font> secondi dell'abilità.</li>
 </ul>
 </li>
-<li>Zunimassa's Haunt
-<ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li>Enemies hit by your Mana spenders take <s>2500%</s> 5500% increased damage from your pets for 8 seconds.</li>
-</ul>
-</li>
+<li>Messe d'Anime assorbe i danni prolungati contro i nemici, infliggendo istantaneamente danni pari a <font color="red"><strike>300</strike> 1.200</font> secondi.</li>
 </ul>
 </li>
-</ul>
-</li>
-<li>Wizard
-<ul>
-<li>Delsere’s Magnum Opus
-<ul>
-<li>(6) Set
-<ul>
-<li>Enemies affected by your Slow Time and for 5 seconds after exiting take <s>3500%</s> <s>4100%</s> 3800% increased damage from your Arcane Orb, Energy Twister, Explosive Blast, Magic Missile, Shock Pulse, Spectral Blade, and Wave of Force abilities.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Firebird’s Finery
-<ul>
-<li>(6) Set
+<li>Mago
 <ul>
-<li>Your damage is increased by <strike>120%</strike> <strike>200%</strike> <s>150%</s> <s>250%</s> 200% and damage taken reduced by 3% for each enemy that is Ignited. This effect can stack up to 20 times. You always receive the maximum bonus whenever a nearby Elite monster is Ignited.</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Vyr’s Amazing Arcana
+<li>Manto della Fenice
 <ul>
-<li>(6) Set
+<li>(6) Completo
 <ul>
-<li><strike>Increased number of Archon stacks gained when hitting with an Archon ability from 1 to 2</strike></li>
-<li>You also gain Archon stacks when you hit with an Archon ability. Archon stacks now also reduce damage taken by 0.15% and have their damage bonus increased to <s>18%</s> <s>25%</s> 50%</li>
+<li>Danni inflitti aumentati del <font color="red"><strike>120%</strike> 200%</font> e danni subiti ridotti del 3% per ogni nemico incendiato. L'effetto può accumularsi fino a 20 volte. Il bonus massimo viene sempre conferito quando viene incendiato un mostro élite vicino.</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>Chantodo's Resolve
+<li>Mistero Strabiliante di Vyr
 <ul>
-<li>(2) Set
+<li>(6) Completo
 <ul>
-<li>Every second while in Archon form you expel a Wave of Destruction, dealing <strike>350%</strike> <s>600%</s> 1000% weapon damage to enemies within 30 yards</li>
-<li>Every time you hit with an attack while not in Archon form, <strike>350%</strike> 600% weapon damage is added to the Wave of Destruction, stacking up to 20 times</li>
+<li>Numero di accumuli di Arconte ottenuti quando si colpiscono nemici con un'abilità dell'Arconte aumentati da 1 a 2.</li>
 </ul>
 </li>
 </ul>
@@ -919,94 +648,45 @@ Link al post originale (<a href="https://us.battle.net/d3/en/blog/20976068/patch
 </li>
 </ul>
 </li>
-<li><strong>Other Items</strong>
+<li><strong>Altri oggetti</strong>
 <ul>
-<li>Shields acquired by Necromancer players can now properly roll the +Max Essence affix</li>
+<li>Ora gli scudi ottenuti dai negromanti possono essere generati con l'affisso di bonus all'Essenza massima.</li>
 </ul>
 </li>
-<li><strong>Bug Fixes</strong>
+<li><strong>Correzione dei problemi</strong>
 <ul>
-<li>Fixed an issue where Mimics created from Rabid Strike were not correctly inheriting the player’s bonus damage from Lashing Tail Kick, Seven Sided Strike, Cyclone Strike, Exploding Palm and Wave of Light.</li>
-<li>Fixed an issue where after dying, the pet damage bonus granted from Jesseth Arms could sometimes be lost if skeletons are re-commanded onto the same target.</li>
-<li>Fixed an issue preventing the free Blood Nova granted by the Iron Rose from correctly granting the damage bonus from the Trag’Oul’s six-piece bonus.</li>
-<li>Fixed an issue causing certain items to drop for the Necromancer which are not able to be equipped by the class.</li>
-<li>Fixed an issue preventing Necromancer primary skills from taunting enemies when Boyarsky’s Chip is equipped.</li>
-<li>Fixed an issue which prevented the +% Thorns damage bonus granted by Aberrant Animator from applying correctly to items such as the Spear of Jairo</li>
-<li>Fixed an issue where you would not gain the buff from Crystal Fist when you had the buff from Channeling Pylon and Raiment of a Thousand Storms equipped</li>
-<li>(PTR Only) Fixed an issue with Etched Sigil where the internal cooldown for casting another spender was scaling with the item’s damage roll</li>
-<li>(PTR Only) Fixed an issue where minions summoned by the Demon Hunter's Companion skill would double dip on damage from the (6) Set bonus on Embodiment of the Marauder</li>
-<li>(PTR Only) Fixed an issue where Gargantuan would double dip on damage from the (6) Set bonus on Helltooth Harness</li>
-<li>(PTR Only) Fixed an issue where Hydra would double dip on damage from the (6) Set bonus of Tal Rasha's Elements</li>
-<li>Fixed an issue with the (2) Set power of Vyr's Amazing Arcana where your Arcane Blast and Arcane Strike would not Freeze enemies unless you had the Slow Time rune chosen</li>
-<li>(PTR Only) Fixed an issue where equipping certain Legendary items to a follower would cause performance issues</li>
-<li>(PTR Only) Fixed an issue which caused the change to Dayntee's Binding to incorrectly affect existing versions of the item</li>
-<li>Fixed an issue where the Wave of Destruction was doing slightly less damage than intended</li>
-<li>(PTR Only) Fixed an issue where the Legendary power on Gavel of Judgement was not being applied when the item was equipped</li>
-<li>(PTR Only) Fixed an issue where the equipping the new version and then the old version of The Short Man's Finger would result in no Legendary power from either being applied</li>
-<li>(PTR Only) Fixed an issue where the legacy version of the Legendary power on Dayntee's Binding did not upgrade to the new version of this item’s power in Kanai’s Cube</li>
-<li>(PTR Only) Fixed an issue where you could equip the legacy and new version of the Legendary power on Gavel of Judgement at the same time</li>
-<li>(PTR Only) Fixed an issue where every rune except for Shattering Throw was not benefitting from the increased damage from Akkhan’s Leniency</li>
-<li>(PTR Only) Fixed an issue where where Lashing Tail Kicks cast by mimics spawned by Rabid Strike were not having their damage increased by Scarbringer</li>
-<li>(PTR Only) Fixed an issue where the new version of Fate's Vow was not displaying the correct visuals per rune selected with Army of the Dead</li>
-<li>(PTR Only) Fixed an issue where Fate's Vow was not providing the maximum bonus to Army of the Dead when used in Kanai’s Cube</li>
-<li>(PTR Only) Fixed an issue where it was possible to reach zero HP and live when using Haunting Visions and Simulacrum</li>
-<li>(PTR Only) Fixed an issue where the damage over time effect left on the ground by Meteor was not being increased by the legacy version of Nilfur’s Boast.</li>
-</ul>
-</li>
+<li>Corretto un problema per cui i cloni di Impatto Rabbioso non ereditavano correttamente i danni aggiuntivi di Calcio Rotante, Colpo delle Sette Direzioni, Colpo del Ciclone, Palmo Esplosivo e Ondata di Luce.</li>
+<li>Corretto un problema per cui il bonus ai danni delle creature fornito da Armamenti di Jesseth poteva essere perso alla morte se agli scheletri veniva ordinato di attaccare lo stesso bersaglio.</li>
+<li>Corretto un problema che impediva all'attivazione gratuita di Nova di Sangue di Rosa di Ferro di ottenere il bonus ai danni del completo di Trag'Oul.</li>
+<li>Corretto un problema per cui per i negromanti erano generati alcuni oggetti non equipaggiabili dalla classe.</li>
+<li>Corretto un problema per cui le abilità primarie dei negromanti non provocavano i nemici quando Scaglia di Boyarsky era equipaggiata.</li>
+<li>Corretto un problema che impediva la corretta applicazione del bonus ai danni di Spine di Rianimatore Aberrante a oggetti come Lancia di Jairo.</li>
 </ul>
 </li>
 </ul>
-<p><a href="#top">Return to Top</a></p>
-<h3><strong><a name="adventuremode">ADVENTURE MODE</a></strong></h3>
+<p><a href="#top">Torna in cima</a></p>
+<h3><strong><a name="adventuremode">MODALITÀ AVVENTURA</a></strong></h3>
 <ul>
-<li><strong>Rifts</strong>
+<li><strong>Varchi</strong>
 <ul>
-<li>Reduced the number of deadends when Rifts choose the Temple of the Firstborn tileset</li>
-<li>Increased the amount of experience and Rift progress granted by the Hematic Disciple</li>
-<li>Increased the amount of experience and Rift progress granted by Blazing Guardians</li>
-<li>Increased the amount of experience and Rift progress granted by Smoldering Constructs</li>
-<li>Reduced the fog effect in the Shrouded Moors tilesets in Rifts</li>
-<li>The <font color="red"><s>Shrouded Moors tileset and the</s></font> large Temple of the Firstborn tileset can no longer be selected for Greater Rifts</li>
-<li>The amount of experience and Rift / Greater Rift progress that Shock Towers provide has been increased</li>
-<li>Shield Pylons no longer reflects damage back to attackers
+<li>Il numero di vicoli ciechi nell'ambientazione Tempio dei Primogeniti è stato ridotto.</li>
+<li>L'esperienza e il progresso nei Varchi forniti dai discepoli sanguiferi sono stati aumentati.</li>
+<li>L'effetto di nebbia nella Brughiera Fosca è stato ridotto nei Varchi e nei Varchi Maggiori.</li>
+<li>Le stele dello scudo non riflettono più i danni contro gli assalitori.
 <ul>
-<li>Note: Reflecting damage back to attackers caused performance issues when encountering high density.</li>
+<li>Nota: riflettere i danni contro gli assalitori provocava problemi di prestazioni con nemici numerosi.</li>
 </ul>
 </li>
 </ul>
 </li>
-</ul>
-<p><a href="#top">Return to Top</a></p>
-<h3><strong><a name="challengerifts">CHALLENGE RIFTS</a></strong></h3>
-<ul>
-<li>Increased the amount of materials that the Challenge Rift Cache drops</li>
-<li>The Challenge Rift Cache now always drops 10 Death’s Breath</li>
-</ul>
-<p><a href="#top">Return to Top</a></p>
-<h3><strong><a name="monsters">MONSTERS</a></strong></h3>
-<ul>
-<li><strong>Bug Fixes</strong>
-<ul>
-<li>Fixed a champion spawn rate issue for certain monsters required for the achievement ‘We Are the Champions’. The following monsters were adjusted and should spawn with the same frequency as other champion packs:
-<ul>
-<li>Fallen Conjurer</li>
-<li>Fallen Peon</li>
-<li>Fallen Cur</li>
-<li>Fallen Grunt</li>
-<li>Fallen Overlord</li>
-<li>Fallen Slavelord</li>
-</ul>
-<font color="red"> </font></li>
-</ul>
-<font color="red"> </font></li>
 </ul>
-<p><a href="#top">Return to Top</a></p>
-<h3><strong><a name="adventuremode">PTR ONLY</a></strong></h3>
+<p><a href="#top">Torna in cima</a></p>
+<h3><strong><a name="adventuremode">SOLO PTR</a></strong></h3>
 <ul>
-<li><strong>D’jank Miem</strong>
+<li><strong>D'jank Miem</strong>
 <ul>
-<li>Players can exchange Blood Shards with this vendor for bags containing Legendary items</li>
+<li>I giocatori possono consegnare Frammenti del Sangue a questo mercante per provviste contenenti oggetti leggendari.</li>
 </ul>
 </li>
 </ul>
-<p><a href="#top">Return to Top</a></p>
+<p><a href="#top">Torna in cima</a></p>

@@ -22,7 +22,7 @@ Per prima cosa è assolutamente importante non fare il Varco di Sfida (Challenge
 Prima di iniziare! Questa guida è stata scritta partendo dalle informazioni scritte su <a href="http://d3planner.com/game/kadala" target="_blank">questo sito</a>, e da test eseguiti da me e da altri membri internazionali della community di Diablo. A quanto pare però, i dati presenti su d3planner non sono corretti al 100%, quindi state ben attenti a come spendete i vostri frammenti di sangue. 
 
 ## Su quali oggetti spendere i frammenti di sangue?
-Andiamo a vedere per ogni classe dove ed a che livello spendere i frammenti di sangue ottenuti dal Varco di Sfida:
+Andiamo a vedere per ogni classe dove, ed a che livello spendere i frammenti di sangue ottenuti dal Varco di Sfida:
 
 Monaco: 
 <ul>
@@ -54,7 +54,7 @@ Barbaro:
   <li>{{ site.data.d3items.band-of-might.tooltip }} (1)</li>
 </ul>
   
-Necromante: 
+Negromante: 
 <ul>
   <li>{{ site.data.d3items.circle-of-nailujs-evol.tooltip }} (1)</li>
 </ul>
@@ -64,3 +64,6 @@ Sciamano:
   <li>{{ site.data.d3items.staff-of-chiroptera.tooltip }} (1)</li>
   <li>{{ site.data.d3items.mask-of-jeram.tooltip }} (31)</li>
 </ul>
+
+
+Alcune classi come Monaco o il Barbaro sono molto più avvantaggiate delle nei primi livelli, grazie ai danni dei rispettivi leggendari. Mago e Negromante invece una volta completato il percorso stagionale se hanno trovato i rispettivi anelli potranno salire subito ai tormento più alti.

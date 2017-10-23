@@ -7,8 +7,8 @@ tags:
 description: >
   La stagione 12 è alle porte, quali sono i migliori leggendari da ottenere da Kadala
 hero: http://www.alurith.it/uploads/kadala-weapons.jpg
-overlay: red
-published: false
+overlay: orange
+published: true
 ---
 Come sempre Kadala potra gioie e sventure, abbiamo tutti sperato di trovare l'oggetto che ci mancava per completare la nostra build ed a tutti è capitato almeno un pezzo primordiale di Rovonero. Ma qualsiasi classe tu voglia utilizzare all'inizio della stagione 12 ecco la semplice guida che ti aiuterà a spendere i frammenti di sangue nel modo migliore!
 
@@ -22,13 +22,7 @@ Per prima cosa è assolutamente importante non fare il Varco di Sfida (Challenge
 Prima di iniziare! Questa guida è stata scritta partendo dalle informazioni scritte su <a href="http://d3planner.com/game/kadala">questo sito</a>, e da test eseguiti da me e da altri membri internazionali della community di Diablo. A quanto pare però, i dati presenti su d3planner non sono corretti al 100%, quindi state ben attenti a come spendete i vostri frammenti di sangue. 
 
 ## Su quali oggetti spendere i frammenti di sangue?
-Andiamo a vedere per ogni classe dove ed a che livello spendere i frammenti di sangue ottenuti dal Varco di Sfida secondo questa struttura:
-
-Classe:
-<ul>
-  <li>Nome Oggetto (livello consigliato)</li>
-</ul>
-
+Andiamo a vedere per ogni classe dove ed a che livello spendere i frammenti di sangue ottenuti dal Varco di Sfida:
 
 Monaco: 
 <ul>
@@ -43,30 +37,30 @@ Mago:
 
 Crociato: 
 <ul>
-  <li>{{ site.data.d3items.manald-heal.tooltip }}Denail (1)</li>
-  <li>{{ site.data.d3items.manald-heal.tooltip }}Guard of Johanna (1)</li>
-  <li>{{ site.data.d3items.manald-heal.tooltip }}Gabriels Vambracer (1)</li>
+  <li>{{ site.data.d3items.denial.tooltip }} (1)</li>
+  <li>{{ site.data.d3items.guard-of-johanna.tooltip }}Guard of Johanna (1)</li>
+  <li>{{ site.data.d3items.gabriels-vambracer.tooltip }}Gabriels Vambracer (1)</li>
 </ul>
 
 Cacciatore di Demoni:
 <ul>
-  <li>Hellcat Waistguard (1)</li>
+  <li>{{ site.data.d3items.hellcat-waistguard.tooltip }} (1)</li>
 </ul>
 
 Barbaro:
 <ul>
-  <li>Bracers of First Men (1)</li>
-  <li>Bracers of Destruction (1)</li>
-  <li>Band of Might (1)</li>
+  <li>{{ site.data.d3items.bracers-of-the-first.tooltip }} (1)</li>
+  <li>{{ site.data.d3items.bracers-of-destruction.tooltip }} (1)</li>
+  <li>{{ site.data.d3items.band-of-might.tooltip }} (1)</li>
 </ul>
   
 Necromante: 
 <ul>
-  <li>Circle of Naijul's Evol (1)</li>
+  <li>{{ site.data.d3items.circle-of-nailujs-evol.tooltip }} (1)</li>
 </ul>
 
 Sciamano: 
 <ul>
-  <li>Staff of Chiroptera (1)</li>
-  <li>Mask of Jeram (31)</li>
+  <li>{{ site.data.d3items.staff-of-chiroptera.tooltip }} (1)</li>
+  <li>{{ site.data.d3items.mask-of-jeram.tooltip }} (31)</li>
 </ul>

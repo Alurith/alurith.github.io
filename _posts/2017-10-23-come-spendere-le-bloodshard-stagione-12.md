@@ -10,7 +10,7 @@ hero: http://www.alurith.it/uploads/kadala-weapons.jpg
 overlay: orange
 published: true
 ---
-Come sempre Kadala potra gioie e sventure, abbiamo tutti sperato di trovare l'oggetto che ci mancava per completare la nostra build ed a tutti è capitato almeno un pezzo primordiale di Rovonero. Ma qualsiasi classe tu voglia utilizzare all'inizio della stagione 12 ecco la semplice guida che ti aiuterà a spendere i frammenti di sangue nel modo migliore!
+Come sempre Kadala porta gioie e sventure, abbiamo tutti sperato di trovare l'oggetto che ci mancava per completare la nostra build ed a tutti è capitato almeno un pezzo primordiale di Rovonero. Ma qualsiasi classe tu voglia utilizzare all'inizio della stagione 12 ecco la semplice guida che ti aiuterà a spendere i frammenti di sangue nel modo migliore!
 
 <!–-break-–>
 

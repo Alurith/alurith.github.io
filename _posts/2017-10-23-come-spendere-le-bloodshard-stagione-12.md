@@ -27,7 +27,7 @@ Andiamo a vedere per ogni classe dove ed a che livello spendere i frammenti di s
 Monaco: 
 <ul>
   <li>{{ site.data.d3items.gungdo-gear.tooltip }} (1)</li>
-  <li>{{ site.data.d3items.river-dancers.tooltip }} (1)</li>
+  <li>{{ site.data.d3items.rivera-dancers.tooltip }} (1)</li>
 </ul>
 
 Mago: 
@@ -38,8 +38,8 @@ Mago:
 Crociato: 
 <ul>
   <li>{{ site.data.d3items.denial.tooltip }} (1)</li>
-  <li>{{ site.data.d3items.guard-of-johanna.tooltip }}Guard of Johanna (1)</li>
-  <li>{{ site.data.d3items.gabriels-vambracer.tooltip }}Gabriels Vambracer (1)</li>
+  <li>{{ site.data.d3items.guard-of-johanna.tooltip }} (1)</li>
+  <li>{{ site.data.d3items.gabriels-vambraces.tooltip }} (1)</li>
 </ul>
 
 Cacciatore di Demoni:

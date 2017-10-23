@@ -68,7 +68,7 @@ staff-of-chiroptera:
   is-set        : false
   tooltip    : "<a href='https://eu.battle.net/d3/it/item/staff-of-chiroptera-P4_Unique_Staff_001' rel='np'>Bastone del Chirottero</a>"
 
-denial:
+mask-of-jeram:
   bounty-only   : false #Item is drop only on bounties
   is-set        : false
   tooltip    : "<a href='https://eu.battle.net/d3/it/item/mask-of-jeram-Unique_VoodooMask_102_x1' rel='np'>Maschera di Jeram</a>"

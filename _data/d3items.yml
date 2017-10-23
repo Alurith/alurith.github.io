@@ -1,0 +1,359 @@
+# Diablo III items for tooltip
+
+# Diablo 3 target version: PTR 2.6.1.47710
+# File version: 0.1
+
+band-of-might:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : "<a href='https://eu.battle.net/d3/it/item/band-of-might-P4_Unique_Ring_05' rel='np'>Anello Possente</a>"
+  tooltip-en    : "<a href='https://eu.battle.net/d3/en/item/band-of-might-P4_Unique_Ring_05' rel='np'>Band of Might</a>"
+
+
+bracers-of-destruction:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+bracers-of-the-first-men:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+fury-of-the-vanished-peak:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+gavel-of-judgement:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+girdle-of-giants:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+skull-grasp:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+standoff:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+blade of prophecy:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+bracer of fury:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+denial:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+faithful memory:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+fate of the fell:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+frostburn:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+frydehr's wrath:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+golden flense:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+gyrfalcon's foote:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+jekangbord:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+dead man's legacy:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+karlei's point:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+lord greenston's fan:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+manticore:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+yang's recurve:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+wraps of clarity:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+binding of the lost:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+balance:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+cesar's momento:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+the fist of az'turrasq:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+incense torch of the grand temple:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+scarbringer:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+spirit guards:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+bloodsong mail:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+bloodtide blade:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+dayntee's binding:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+defiler cuisses:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+fate's vow:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+golemskin breeches:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+leger's disdain:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+lost time:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+maltorius' petrified spike:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+mask of scarlet death:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+nayr's black death:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+scythe of the cycle:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+steuart's greaves:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+the johnstone:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+bakuli jungle wraps:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+mask of jeram:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+staff of chiroptera:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+the short man's finger:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+deathwish:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+etched sigil:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+halo of karini:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+nilfur's boast:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+orb of infinite depth:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+ranslor's folly:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+the grand vizier:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+triumvirate:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+unstable scepter:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""
+
+wand of woh:
+  bounty-only   : false #Item is drop only on bounties
+  is-set        : false
+  tooltip-it    : ""
+  tooltip-en    : ""

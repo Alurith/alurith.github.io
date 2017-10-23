@@ -19,7 +19,7 @@ Per prima cosa è assolutamente importante non fare il Varco di Sfida (Challenge
 
 
 ### Disclaimer
-Prima di iniziare! Questa guida è stata scritta partendo dalle informazioni scritte su <a href="http://d3planner.com/game/kadala">questo sito</a>, e da test eseguiti da me e da altri membri internazionali della community di Diablo. A quanto pare però, i dati presenti su d3planner non sono corretti al 100%, quindi state ben attenti a come spendete i vostri frammenti di sangue. 
+Prima di iniziare! Questa guida è stata scritta partendo dalle informazioni scritte su <a href="http://d3planner.com/game/kadala" target="_blank">questo sito</a>, e da test eseguiti da me e da altri membri internazionali della community di Diablo. A quanto pare però, i dati presenti su d3planner non sono corretti al 100%, quindi state ben attenti a come spendete i vostri frammenti di sangue. 
 
 ## Su quali oggetti spendere i frammenti di sangue?
 Andiamo a vedere per ogni classe dove ed a che livello spendere i frammenti di sangue ottenuti dal Varco di Sfida:

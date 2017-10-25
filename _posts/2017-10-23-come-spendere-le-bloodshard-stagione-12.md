@@ -67,3 +67,5 @@ Sciamano:
 
 
 Alcune classi come Monaco o il Barbaro sono molto più avvantaggiate delle nei primi livelli, grazie ai danni dei rispettivi leggendari. Mago e Negromante invece una volta completato il percorso stagionale se hanno trovato i rispettivi anelli potranno salire subito ai tormento più alti.
+
+E voi con che classe avete deciso di inziare?

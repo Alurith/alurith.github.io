@@ -7,7 +7,7 @@ url                          : "http://www.alurith.it" # the base hostname & pro
 blog:
   title                      : Alurith
   description                  : >
-                               this should contain a proper description
+                               Scopri le ultime novità dell'universo di Diablo III
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file

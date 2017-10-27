@@ -4,6 +4,7 @@ title: Diablo III - Rhykker Tier list!
 tags:
   - diablo3
   - guide
+  - stagione12
 description: >
   Volete scoprire quali sono le migliori build per la Stagione 12? Rhykker ha aggiornato la tier list
 hero: http://www.alurith.it/uploads/rsz_d3update.jpg

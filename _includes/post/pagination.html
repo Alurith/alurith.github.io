@@ -6,7 +6,7 @@
       {% if paginator.page == 2 %}
             <a rel="prev" href="{{ site.baseurl }}/">&laquo; Precendenti</a>
         {% else %}
-        <a rel="prev" href="{{ site.baseurl }}/page-{{paginator.previous_page}}/">&laquo; Precendenti</a>
+        <a rel="prev" href="{{ site.baseurl }}/page-{{paginator.previous_page}}/">&laquo; Nuovi</a>
         {% endif %}
       {% else %}
       <span></span>
@@ -16,7 +16,7 @@
 
     <li class="pagination-item-next" >
     {% if paginator.next_page %}
-      <a rel="next" href="{{ site.baseurl }}/page-{{paginator.next_page}}/">Nuovi &raquo;</a>
+      <a rel="next" href="{{ site.baseurl }}/page-{{paginator.next_page}}/">Precendenti &raquo;</a>
       {% else %}
       <span></span>
     {% endif %}

@@ -3,15 +3,14 @@ layout: post
 title: Diablo III - Doppi problemi in arrivo! Raddoppiano i Goblin!
 tags:
   - diablo3
-  - guide
-  - stagione12
+  - blizzard
 description: >
   La patch 2.6.1 è online e la season si avvicina, scopri cosa ha in serbo la blizzard!
 hero: https://bnetcmsus-a.akamaihd.net/cms/blog_header/m4/M4LCUOQHCOMR1509142832584.jpg
 overlay: blue
 published: true
 ---
-La patch 2.6.1 è online e la Stagione 12 si avvicina e la blizzar ha deciso di farci uno stupendo regalo!
+La patch 2.6.1 è online e la Stagione 12 si avvicina e la Blizzard ha deciso di farci uno stupendo regalo!
 
 <!–-break-–>
 Dal 9 al 9 Novembre il numero dei goblin verrà raddoppiato! Ogni goblin che troveremo sarà accompagnato da un compagno, più goblin più loot!

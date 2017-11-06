@@ -53,11 +53,6 @@ bracers-of-destruction:
   is-set        : false
   tooltip    : "<a href='https://eu.battle.net/d3/it/item/bracers-of-destruction-P3_Unique_Bracer_104' rel='np'>Bracciali della Distruzione</a>"
 
-band-of-might:
-  bounty-only   : false #Item is drop only on bounties
-  is-set        : false
-  tooltip    : "<a href='https://eu.battle.net/d3/it/item/band-of-might-P4_Unique_Ring_05' rel='np'>Anello Possente</a>"
-
 circle-of-nailujs-evol:
   bounty-only   : false #Item is drop only on bounties
   is-set        : false

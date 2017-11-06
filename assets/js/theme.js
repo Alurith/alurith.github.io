@@ -12,7 +12,7 @@ const LightTheme = {
   '--bg-color': '#eee',
   '--text-color': '#484848',
   '--text-color-light': '#828282',
-  '--link-color': '#000',
+  '--link-color': '#00b4ff',
   '--metadata-color': '#999',
   '--post-title': '#313131',
   '--code-bg-color': '#fff',

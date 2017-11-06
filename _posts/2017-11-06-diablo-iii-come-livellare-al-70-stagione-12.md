@@ -79,3 +79,8 @@ Questa strategia è di gran lunga la migliore, poiché pur essendo leggermente p
 	<li>Tenete tutte le Bardiche Bovine e gli Anelli dell'Enigma che trovate.</li>
 	<li>La velocità di movimento è la vostra statistica più importante, non ignoratela!</li>
 </ul>
+
+
+E voi come giocherete in solo o in gruppo? Qual'è il vostro medoto preferito?
+
+Se volete seguirmi sarò live per la partenza della Stagione 12 il 9 Novembre su twitch <a href="https://www.twitch.tv/alurith_tv">Alurith_tv</a>

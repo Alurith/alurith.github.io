@@ -28,7 +28,7 @@ const NightTheme = {
   '--bg-color': '#1c1c1c',
   '--text-color': '#c4c4c4',
   '--text-color-light': '#777',
-  '--link-color': '#f1f1f1',
+  '--link-color': '#00b4ff',
   '--metadata-color': '#666',
   '--post-title': '#fff',
   '--code-bg-color': '#252525',

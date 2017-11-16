@@ -2,7 +2,7 @@
 layout: page
 title: Diablo III Community
 permalink: /diablo-3-community/
-published: false
+published: true
 ---
 
 <div class="page" markdown="1">

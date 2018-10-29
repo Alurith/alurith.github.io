@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About this blog: Cosa aspettarsi prossimamente
+title: Cosa aspettarsi prossimamente?
 tags:
   - theblog
 description: >

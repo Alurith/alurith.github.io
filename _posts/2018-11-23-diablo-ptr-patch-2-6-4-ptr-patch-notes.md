@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Patch 2.6.1 PTR Patch Notes
+title: Patch 2.6.4 PTR Patch Notes
 tags:
   - diablo3
   - blizzard

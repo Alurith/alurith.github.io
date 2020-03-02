@@ -33,6 +33,5 @@ published: true
 
 ## Gli Streamer
 <ul>
-	<li><a href="https://www.twitch.tv/marwangaming" target="_blank">Marwan Gaming</a></li>
-	<li><a href="https://www.twitch.tv/adamadisco" target="_blank">Adamadisco</a></li>
+SOON
 </ul>

@@ -16,6 +16,9 @@ In questa guida andremo a scoprire come livellare velocemente e di come farlo al
 
 <!–-break-–>
 
+## Update
+La guida aggiornata per la Stagione 20 è disponibile a questo link: <a href="{{ 'posts/diablo-iii-come-livellare-al-70-stagione-20 | prepend: site.baseurl }}">Diablo 3 - Come livellare al 70 durante la Stagione 20</a>
+
 ## Preparazione
 
 Specialmente nel periodo precedente alla nuova stagione, la preparazione è uno degli elementi più importanti e sottovalutati, il tempo perso in gioco nel capire cosa fare è tempo che non dedichiamo al fare esperienza, potreste pensare che sia insignificante ma quel tempo continuerà a sommarsi se non siamo preparati. Il primo passo importante è sapere quando la nuova stagione inizia, la Stagione 12 per l'Europa inizia Giovedì 9 Novembre alle 17.00.

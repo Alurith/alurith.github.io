@@ -20,10 +20,11 @@ In questa guida andremo a scoprire come livellare velocemente e di come farlo al
 Prima di iniziare! Questa guida è stata scritta partendo dalle informazioni e da test eseguiti da me e da altri membri internazionali della community di Diablo.
 
 Potete trovare tutte le informazioni anche sui seguenti siti:
-<a href="http://d3planner.com/game/kadala" target="_blank">D3Planner Kadala</a>
-<a href="https://vanlioko.github.io/" target="_blank">Quick Season Start Tracker</a>
-<a href="https://www.youtube.com/watch?v=yJuco-mV_xs" target="_blank">Diablo 3 Season 20 Leveling Guide</a>
- by Raxxanterax
+<ul>
+<li><a href="http://d3planner.com/game/kadala" target="_blank">D3Planner Kadala</a></li>
+<li><a href="https://vanlioko.github.io/" target="_blank">Quick Season Start Tracker</a></li>
+<li><a href="https://www.youtube.com/watch?v=yJuco-mV_xs" target="_blank">Diablo 3 Season 20 Leveling Guide</a> di Raxxanterax</li>
+</ul>
 
 In ogni caso i dati e le strategie potrebbero non essere aggiornati in futuro, quindi è importante effettuare le proprie ricerche. 
 

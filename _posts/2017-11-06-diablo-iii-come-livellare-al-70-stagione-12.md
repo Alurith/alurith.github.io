@@ -17,7 +17,7 @@ In questa guida andremo a scoprire come livellare velocemente e di come farlo al
 <!–-break-–>
 
 ## Update
-La guida aggiornata per la Stagione 20 è disponibile a questo link: <a href="{{ 'posts/diablo-iii-come-livellare-al-70-stagione-20 | prepend: site.baseurl }}">Diablo 3 - Come livellare al 70 durante la Stagione 20</a>
+La guida aggiornata per la Stagione 20 è disponibile a questo link: <a href="{{ 'posts/diablo-iii-come-livellare-al-70-stagione-20' | prepend: site.baseurl }}">Diablo 3 - Come livellare al 70 durante la Stagione 20</a>
 
 ## Preparazione
 
